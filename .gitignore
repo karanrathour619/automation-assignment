@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment — NEVER commit real credentials
+.env
+
+# Playwright output artifacts
+playwright-report/
+test-results/
+dist/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/

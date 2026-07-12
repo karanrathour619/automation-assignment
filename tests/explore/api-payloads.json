@@ -1,0 +1,122 @@
+{
+  "create_1783845940494": {
+    "name": "Form_UC1_1783845940132",
+    "parentFolderId": "32989098",
+    "description": "Automated form for UC1",
+    "contentType": "application/vnd.aa.form"
+  },
+  "create_1783845940892": {
+    "form": {
+      "properties": {
+        "title": "Form title",
+        "dimension": {
+          "height": 600,
+          "width": 600,
+          "displayHeight": 600
+        },
+        "font": {
+          "fontType": "System",
+          "fontSize": "MEDIUM"
+        },
+        "closeOnEndMachine": false,
+        "minimizeOnEndMachine": false,
+        "hiddenElements": [],
+        "brandLogos": [],
+        "logoCount": "Zero"
+      },
+      "position": {
+        "isFormPreviewCentered": false,
+        "startX": 650,
+        "startY": 10,
+        "formPlacement": "TOP_LEFT"
+      },
+      "meta": {
+        "version": "2.1"
+      },
+      "rows": [
+        {
+          "columns": [
+            {
+              "width": 50
+            },
+            {
+              "width": 50
+            }
+          ]
+        }
+      ],
+      "rules": [],
+      "documentElement": {}
+    }
+  },
+  "deps_1783845941336": {
+    "childFileIds": []
+  },
+  "create_1783845980687": {
+    "id": "32998532",
+    "name": "Form_UC1_1783845940132",
+    "parentId": "32989098",
+    "type": "application/vnd.aa.form"
+  },
+  "create_1783845981003": {
+    "form": {
+      "properties": {
+        "title": "Form title",
+        "dimension": {
+          "height": 600,
+          "width": 600,
+          "displayHeight": 600
+        },
+        "font": {
+          "fontType": "System",
+          "fontSize": "MEDIUM"
+        },
+        "closeOnEndMachine": false,
+        "minimizeOnEndMachine": false,
+        "hiddenElements": [],
+        "brandLogos": [],
+        "logoCount": "Zero"
+      },
+      "position": {
+        "isFormPreviewCentered": false,
+        "startX": 650,
+        "startY": 10,
+        "formPlacement": "TOP_LEFT"
+      },
+      "meta": {
+        "version": "2.1"
+      },
+      "rules": [],
+      "documentElement": {},
+      "rows": [
+        {
+          "columns": [
+            {
+              "type": "TextBox",
+              "fieldType": "TextBox",
+              "id": "TextBox0",
+              "label": "TextBox",
+              "defaultValue": "",
+              "toolTip": "",
+              "hintText": "",
+              "mandatory": false,
+              "hidden": false,
+              "readOnly": false,
+              "width": 100,
+              "minLength": -1,
+              "maxLength": -1,
+              "masked": false,
+              "regex": "",
+              "regexErrorMessage": "",
+              "validationType": "standard"
+            }
+          ]
+        }
+      ],
+      "styles": {}
+    }
+  },
+  "deps_1783845981335": {
+    "childFileIds": []
+  }
+}

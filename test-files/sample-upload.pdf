@@ -1,0 +1,7 @@
+Sample PDF placeholder for UC1 file upload test.
+
+This file is uploaded by the Playwright test in UC1-T3 to verify the 
+Select File control in the AA CE Form Builder.
+
+Replace this file with a real PDF if AA CE validates the file type/content.
+File path expected by the test: test-files/sample-upload.pdf
